@@ -3,6 +3,4 @@ test web app bravo
 
 -building out angular framework
 
-<script>
-  <button onClick="window.open('https://jolyeons.github.io/bravo', '_blank');">go to bravo</button>
-</script>
+<a href='https://jolyeons.github.io/bravo' target='_blank') rel='noopener'>go to bravo</a>
